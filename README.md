@@ -31,7 +31,7 @@ Software engineer in Bengaluru, open to remote. I work on browser automation, we
 
 ## Tech
 
-Python (Playwright, Scrapy, Selenium, BeautifulSoup, Requests, Polars, Django) · C · C++ · CMake · JavaScript/TypeScript · MongoDB · Firebase · SQL/MySQL · Git & GitHub Actions · Linux
+Python (Playwright, Scrapy, Selenium, Django) · C · C++ · CMake · JavaScript/TypeScript · MongoDB · Firebase · SQL/MySQL · Git & GitHub Actions · Linux
 
 ## Contact
 
