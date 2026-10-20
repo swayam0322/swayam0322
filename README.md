@@ -22,6 +22,7 @@ Software engineer in Bengaluru, open to remote. I work on browser automation, we
 | | [#28582](https://github.com/zulip/zulip/pull/28582): added a "send another email" button to find-account |
 | | [#28598](https://github.com/zulip/zulip/pull/28598): send an email even when no Zulip account matches the address |
 | | [GoCD integration rewrite](https://github.com/zulip/zulip/commit/6c583c9bfe4c56fe7b655494b403156d3498ac1d) (co-authored): moved to a webhook-plugin-based integration with richer notifications, fixtures and tests (fixes #21224) |
+| [LambdaTest Buildkite plugin](https://github.com/LambdaTest/lambdatest-buildkite-plugin) (Bash) | [#10](https://github.com/LambdaTest/lambdatest-buildkite-plugin/pull/10): added BATS tests for the `pre-exit` hook (temp-dir cleanup and tunnel shutdown) and fixed its "Tunnel Successfully Stopped" message printing inside the wait loop |
 
 ## Projects
 
